@@ -1,6 +1,6 @@
 ![ILUM, CNPEM, MINISTÉRIO DA EDUCAÇÃO](https://github.com/ComicDeath/Proton-Collision-Classifier/blob/main/Figuras/ilum_colorida.png)
 
-<h1 align="center">A Rota da Neuromante</h1>
+<h1 align="center">A Rota da Neuromante - MLP-FPS</h1>
 
 O projeto **MLP_FPS**, baseado na atividade **A Rota da Neuromante**, foi a primeira entrega da disciplina de Redes Neurais e Algoritmos Genéticos, ministrada no terceiro semestre do Bacharelado em Ciência e Tecnologia da Ilum - Escola de Ciências. O objetivo é prever FPS (frames por segundo) em jogos a partir de dados de hardware, aplicando regressão supervisionada. O trabalho inclui pré-processamento de dados, criação de embeddings para variáveis categóricas, ajuste de hiperparâmetros com Optuna, definição de funções de ativação, escolha de otimizadores e técnicas de regularização, visando precisão e convergência estável do modelo.
 
