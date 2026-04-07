@@ -2,7 +2,7 @@
 
 <h1 align="center">A Rota da Neuromante</h1>
 
-O projeto **A Rota da Neuromante** foi desenvolvido como primeira entrega da disciplina Redes Neurais e Algoritmos Genéticos, ministrada no terceiro semestre do Bacharelado em Ciência e Tecnologia da Ilum - Escola de Ciências. O objetivo é prever FPS (frames por segundo) em jogos a partir de dados de hardware, aplicando regressão supervisionada. O trabalho inclui pré-processamento de dados, criação de embeddings para variáveis categóricas, ajuste de hiperparâmetros com Optuna, definição de funções de ativação, escolha de otimizadores e técnicas de regularização, visando precisão e convergência estável do modelo.
+O projeto **A Rota da Neuromante** foi desenvolvido como a primeira entrega da disciplina Redes Neurais e Algoritmos Genéticos, ministrada no terceiro semestre do Bacharelado em Ciência e Tecnologia da Ilum - Escola de Ciências. O objetivo é prever FPS (frames por segundo) em jogos a partir de dados de hardware, aplicando regressão supervisionada. O trabalho inclui pré-processamento de dados, criação de embeddings para variáveis categóricas, ajuste de hiperparâmetros com Optuna, definição de funções de ativação, escolha de otimizadores e técnicas de regularização, visando precisão e convergência estável do modelo.
 
 # Algoritmo utilizado
 
