@@ -1,0 +1,419 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+
+EnvironmentNameNotFound: Could not find conda environment: meu_env
+You can list all discoverable environments with `conda info --envs`.
+
+
+172.20.60.16
+[I 2026-04-04 20:15:04.073 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-04-04 20:15:04.075 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-04-04 20:15:04.077 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-04-04 20:15:04.078 ServerApp] notebook | extension was successfully linked.
+[I 2026-04-04 20:15:04.419 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-04-04 20:15:04.441 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-04-04 20:15:04.442 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-04-04 20:15:04.443 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-04-04 20:15:04.451 LabApp] JupyterLab extension loaded from /home/joao25017/miniconda3/envs/neuromante/lib/python3.14/site-packages/jupyterlab
+[I 2026-04-04 20:15:04.451 LabApp] JupyterLab application directory is /home/joao25017/miniconda3/envs/neuromante/share/jupyter/lab
+[I 2026-04-04 20:15:04.451 LabApp] Extension Manager is 'pypi'.
+[I 2026-04-04 20:15:04.487 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-04-04 20:15:04.490 ServerApp] notebook | extension was successfully loaded.
+[I 2026-04-04 20:15:04.490 ServerApp] Serving notebooks from local directory: /home/joao25017/work
+[I 2026-04-04 20:15:04.490 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-04-04 20:15:04.490 ServerApp] http://172.20.60.16:8888/tree?token=8b881caa230e406bf15be348f6cb3e1560dfa35d4df3da6d
+[I 2026-04-04 20:15:04.490 ServerApp]     http://127.0.0.1:8888/tree?token=8b881caa230e406bf15be348f6cb3e1560dfa35d4df3da6d
+[I 2026-04-04 20:15:04.490 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2026-04-04 20:15:04.497 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2026-04-04 20:15:04.497 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/joao25017/.local/share/jupyter/runtime/jpserver-1107362-open.html
+    Or copy and paste one of these URLs:
+        http://172.20.60.16:8888/tree?token=8b881caa230e406bf15be348f6cb3e1560dfa35d4df3da6d
+        http://127.0.0.1:8888/tree?token=8b881caa230e406bf15be348f6cb3e1560dfa35d4df3da6d
+[I 2026-04-04 20:15:04.515 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-04-04 20:15:47.580 ServerApp] Kernel started: 51b357dc-4563-4ffa-b2fc-5931a75813d2
+[I 2026-04-04 20:15:48.074 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-04 20:15:48.075 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[W 2026-04-04 20:15:48.075 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-04-04 20:15:48.092 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:852a15aa-8a71-46bf-9dea-0adc39cee9ab
+[I 2026-04-04 20:15:48.114 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-04 20:15:48.115 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-04 20:15:48.134 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-04 20:15:48.134 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-04 20:15:54.994 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-04 20:15:54.995 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-04 20:16:34.046 ServerApp] Kernel restarted: 51b357dc-4563-4ffa-b2fc-5931a75813d2
+[I 2026-04-04 20:16:34.052 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-04 20:16:34.057 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-04 20:16:34.057 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-04 20:16:34.057 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-04 20:17:48.024 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:19:48.094 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:19:53.254 ServerApp] Kernel restarted: 51b357dc-4563-4ffa-b2fc-5931a75813d2
+[I 2026-04-04 20:19:53.261 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-04 20:19:53.267 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-04 20:19:53.267 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-04 20:19:53.267 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[W 2026-04-04 20:20:19.204 ServerApp] delete /Estudos do Optuna
+[I 2026-04-04 20:20:20.928 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:20:23.298 ServerApp] Kernel restarted: 51b357dc-4563-4ffa-b2fc-5931a75813d2
+[I 2026-04-04 20:20:23.305 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-04 20:20:23.310 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-04 20:20:23.310 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-04 20:20:23.310 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-04 20:22:20.985 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:24:21.067 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:26:21.142 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:28:21.221 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:30:21.990 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:32:22.985 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:32:29.861 ServerApp] Kernel restarted: 51b357dc-4563-4ffa-b2fc-5931a75813d2
+[I 2026-04-04 20:32:29.866 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-04 20:32:29.871 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-04 20:32:29.871 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-04 20:32:29.871 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[W 2026-04-04 20:32:34.717 ServerApp] delete /Estudos do Optuna
+[I 2026-04-04 20:32:37.456 ServerApp] Kernel restarted: 51b357dc-4563-4ffa-b2fc-5931a75813d2
+[I 2026-04-04 20:32:37.461 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-04 20:32:37.466 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-04 20:32:37.466 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-04 20:32:37.466 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-04 20:34:23.988 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:36:24.073 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:38:24.155 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:40:24.235 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:42:24.995 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:44:26.014 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:46:27.055 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:48:28.119 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:50:28.356 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:52:29.038 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:54:30.047 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:56:30.346 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 20:58:31.046 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:00:31.188 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:02:31.429 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:04:31.656 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:06:32.051 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:08:33.169 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:10:34.057 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:12:35.059 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:14:36.104 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:16:37.084 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:18:38.206 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:20:39.055 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:22:40.079 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:24:41.056 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:26:42.078 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:28:43.217 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:30:44.089 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:32:45.107 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:34:46.087 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:36:47.086 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:38:48.077 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:40:49.097 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:42:50.101 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:44:51.106 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:46:52.097 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:48:53.208 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:50:54.112 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:52:55.119 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:54:56.110 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:56:57.102 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 21:58:58.188 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:00:59.099 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:03:00.102 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:05:01.106 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:07:02.108 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:09:03.258 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:11:04.122 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:13:05.132 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:15:06.121 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:17:07.186 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:19:08.264 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:21:09.170 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:23:10.126 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:25:11.116 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:27:12.143 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:29:13.223 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:31:14.132 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:33:15.122 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:35:16.127 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:37:17.131 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:39:18.240 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:41:19.204 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:43:20.174 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:45:21.419 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:47:22.170 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:49:23.377 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:51:24.440 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:53:25.149 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:55:27.161 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:57:29.167 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 22:59:31.409 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:01:33.330 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:03:37.190 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:05:40.221 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:07:44.367 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:09:46.373 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:11:47.885 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:13:49.277 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:15:53.207 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:17:56.461 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:20:01.353 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:22:04.222 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:24:08.267 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:26:11.189 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:28:12.289 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:30:15.198 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:32:16.193 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:34:20.203 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:36:22.572 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:38:24.194 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:40:28.451 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:42:31.205 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:44:34.252 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:46:39.225 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:48:42.118 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:50:46.279 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:52:51.270 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:54:55.269 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:56:56.313 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-04 23:58:58.264 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:01:02.561 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:03:05.300 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:05:08.306 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:07:12.693 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:09:17.139 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:11:19.275 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:13:23.285 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:15:27.289 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:17:29.267 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:19:33.177 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:21:36.257 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:23:45.732 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:25:48.340 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:27:50.266 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:29:55.852 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:31:58.436 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:34:03.304 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:36:05.336 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:38:08.474 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:40:11.350 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:42:12.281 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:44:14.263 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:46:19.286 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:48:22.282 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:50:26.514 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:52:31.676 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:54:36.422 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:56:38.293 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 00:58:44.302 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:01:03.859 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:03:06.282 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:05:11.676 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:07:16.276 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:09:22.368 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:11:26.839 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:13:29.330 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:15:34.330 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:17:38.301 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:19:43.464 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:21:49.587 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:23:54.711 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:24:31.119 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:26:32.508 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:28:36.581 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:30:40.437 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:32:41.525 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:35:52.516 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:35:53.939 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:37:37.849 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-05 01:37:37.853 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-05 01:38:56.806 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:40:37.295 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:40:58.522 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:41:32.282 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:45:30.740 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:47:35.672 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:49:39.739 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:51:42.705 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:53:45.745 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:55:51.344 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:57:53.492 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 01:59:55.706 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:01:57.310 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:04:02.382 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:06:08.901 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:08:11.653 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:10:15.365 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:12:22.335 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:14:25.341 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:16:28.384 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:18:29.564 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:20:31.486 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:22:39.552 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:24:46.345 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:26:48.360 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:28:55.382 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:30:56.971 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:32:59.506 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:35:02.396 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:37:05.605 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:39:14.181 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:41:19.637 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:43:24.876 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:45:32.457 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:47:38.470 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:49:41.873 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:51:44.460 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:53:45.876 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:55:48.451 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 02:57:54.433 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:00:05.706 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:02:19.616 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:04:23.614 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:06:39.883 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:08:41.463 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:11:01.608 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:13:05.772 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:15:13.193 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:17:17.472 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:19:32.792 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:21:37.375 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:23:11.332 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:25:19.028 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:27:23.802 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:29:29.805 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:31:32.695 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:33:38.901 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:35:52.480 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:37:56.462 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:40:07.542 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:42:13.463 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:44:19.476 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:46:26.727 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:48:31.473 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:50:35.480 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:52:39.483 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:54:49.454 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:56:59.368 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 03:59:05.634 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:01:13.739 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:03:23.523 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:05:33.704 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:07:35.781 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:09:45.780 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:11:47.939 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:13:59.504 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:15:52.704 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:17:54.082 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:19:55.575 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:21:57.370 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:24:05.593 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:26:15.511 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:28:24.447 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:30:32.533 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:32:39.860 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:34:48.438 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:36:56.774 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:39:03.660 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:41:12.483 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:43:22.462 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:45:33.478 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:47:38.634 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:49:40.612 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:51:47.092 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:53:51.468 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:56:01.311 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 04:58:03.499 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 09:17:41.964 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 13:51:28.505 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-05 13:51:28.506 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-05 13:51:28.506 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 13:51:30.279 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 13:53:43.158 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 13:53:45.245 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-05 13:53:45.246 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-05 13:53:45.246 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[W 2026-04-05 14:07:15.248 ServerApp] WebSocket ping timeout after 119936 ms.
+[I 2026-04-05 14:07:20.251 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 16:32:49.828 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 16:33:05.709 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-05 16:33:05.709 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-05 16:33:05.709 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 16:34:38.129 ServerApp] Kernel restarted: 51b357dc-4563-4ffa-b2fc-5931a75813d2
+[I 2026-04-05 16:34:38.227 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 16:34:38.238 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-05 16:34:38.238 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-05 16:34:38.238 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 16:34:57.012 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 16:35:20.762 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 16:36:16.348 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-05 16:36:16.348 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-05 16:36:16.348 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 16:36:57.528 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 16:40:29.933 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 16:42:26.049 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 16:58:46.911 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:00:47.067 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:05:31.562 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 17:07:30.721 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-05 17:07:30.722 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-05 17:07:30.722 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 17:11:14.092 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:13:17.624 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:15:17.685 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:17:17.761 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:21:36.314 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:23:36.563 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:25:36.651 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:27:36.742 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:29:36.819 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:33:44.271 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:35:44.348 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:37:44.559 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:39:44.625 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:41:44.696 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:43:44.782 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:52:39.387 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:54:39.464 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 17:56:39.564 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:10:04.710 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:12:04.814 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:14:45.903 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:16:45.966 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:18:46.550 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:20:46.650 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:21:13.026 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:29:11.298 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 18:29:13.214 ServerApp] Adapting from protocol version 5.3 (kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2) to 5.4 (client).
+[I 2026-04-05 18:29:13.214 ServerApp] Connecting to kernel 51b357dc-4563-4ffa-b2fc-5931a75813d2.
+[I 2026-04-05 18:29:13.214 ServerApp] Restoring connection for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[I 2026-04-05 18:42:14.685 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:47:50.760 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:49:51.578 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 18:52:23.190 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:05:42.611 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:07:42.681 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:11:44.587 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:13:45.586 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:17:46.589 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:19:47.586 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:21:48.588 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:23:49.590 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:25:49.661 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:27:50.588 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:29:51.580 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:31:52.607 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:33:52.699 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:35:53.590 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:37:53.681 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:39:53.767 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:43:25.941 ServerApp] Saving file at /neuromante.ipynb
+[I 2026-04-05 19:43:33.919 ServerApp] Starting buffering for 51b357dc-4563-4ffa-b2fc-5931a75813d2:c5e42c2d-c5c4-498b-ba52-bdfe820836b4
+[2026-04-05T19:43:38.608] error: *** JOB 5142 ON work5 CANCELLED AT 2026-04-05T19:43:38 DUE to SIGNAL Terminated ***
