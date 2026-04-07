@@ -13,7 +13,7 @@ Rede neural capaz de capturar padrões complexos nos dados. O MLP foi ajustado c
 
 Para utilizar o projeto, clone este repositório em sua máquina e abra-o em uma IDE compatível com arquivos `.ipynb`. Em seguida, abra o notebook `neuromante.ipynb`, que contém a introdução teórica, o pré-processamento de dados, o treino dos modelos e sua avaliação, a otimização de hiperparâmetros, a comparação com outros algoritmos, a análise da convergência com diferentes otimizadores, a explicação do modelo por meio da `Permutation Importance`, a discussão dos resultados e a conclusão.
 
-É importante que o ambiente de execução possua todas as bibliotecas necessárias instaladas, incluindo **PyTorch**, **LIghtning**, **Optuna** e demais dependências utilizadas no notebook.  
+É importante que o ambiente de execução possua todas as bibliotecas necessárias instaladas, incluindo **PyTorch**, **Lightning**, **Optuna** e demais dependências utilizadas no notebook.  
 
 A pasta `Estudos do Optuna` contém os arquivos `.db` gerados durante a otimização de hiperparâmetros. A pasta `lightning_logs` armazena os arquivos `.csv` referentes às curvas de aprendizado. Além disso, os melhores modelos treinados estão salvos na pasta `Melhores modelos`, com os arquivos `.pth` correspondentes aos melhores parâmetros treinados encontrados para os modelos que utilizam Adam, AdamW e SGD.
 
