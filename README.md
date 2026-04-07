@@ -23,3 +23,6 @@ A matéria de Redes Neurais e Algoritmos Genéticos foi ministrada por:
   
 # Licença
 Distribuído sob a licença GNU General Public License 3.0, cheque `LICENSE` para mais informações.
+
+# Referências para a construção do README
+ ROCKETSEAT. **Como fazer um bom README.** Disponível em: https://blog.rocketseat.com.br/como-fazer-um-bom-readme/. Acesso em: 06 de abril de 2026.
